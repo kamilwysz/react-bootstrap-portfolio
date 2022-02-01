@@ -1,0 +1,40 @@
+$primary: #ba8f59;
+$secondary: #473520;
+$light: #d7c3a3;
+$dark: #32485c;
+$eyelid: #a06c34;
+$black: black;
+$danger: maroon;
+$success: limegreen;
+
+$html: #e34c26;
+$css: #2965f1;
+$js: #f0db4f;
+$sass: #c69;
+$bs: #563d7c;
+$react: #61dbfb;
+$redux: #764abc;
+$sc: #c69;
+$git: #f34f29;
+$github: #4078c0;
+
+$theme-colors: (
+	"primary": $primary,
+	"secondary": $secondary,
+	"light": $light,
+	"dark": $dark,
+	"eyelid": $eyelid,
+	"black": $black,
+	"danger": $danger,
+	"success": $success,
+	"html": $html,
+	"css": $css,
+	"js": $js,
+	"sass": $sass,
+	"bs": $bs,
+	"react": $react,
+	"redux": $redux,
+	"sc": $sc,
+	"git": $git,
+	"github": $github,
+);

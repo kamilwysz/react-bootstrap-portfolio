@@ -1,0 +1,73 @@
+{
+    "navigation": {
+        "about": "About",
+        "technologies": "Technologies",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "fox": {
+        "header": "Kamil Wyszyński",
+        "subheader": "Junior Front-end Developer",
+        "alt": "Fox"
+    },
+    "about": {
+        "title": "About me",
+        "description": "Hello, I am Kamil and I come from Białystok. In 2020, I got interested in programming and I develop this passion to this day. I devote for learning every free moment, and because it gives me pleasure, I'd like it to become my job as well. I decided on a Front-end, because I pay attention to the appearance of websites and I like to see effects of my actions. For creating projects I use mostly React, but I always try to use something new, to learn as much as possible. I would like to work as Junior Front-end Developer.",
+        "alt": "Me in the Alps"
+    },
+    "technologies": {
+        "title": "Technologies that I use"
+    },
+    "projects": {
+        "title": "My projects",
+        "buttonGithub": "Github",
+        "buttonLive": "Live",
+        "saper": {
+            "title": "Saper",
+            "description": "My version of a popular game from the early 1980s that is probably known to everyone. There are two difficulty levels to choose, that differ in the size of the board and the number of bombs. Passing time is an additional factor.",
+            "stack": "HTML, SCSS, JavaScript"
+        },
+        "quiz": {
+            "title": "Quiz",
+            "description": "Quick game about history knowledge. This quiz is about guessing all Polish presidents. The only hints are the years in which each president was in office. This is the first project I created in React.",
+            "stack": "React, SCSS"
+        },
+        "top5": {
+            "title": "Top 5 leagues",
+            "description": "Because I like sports, a football application could not be missing in my portfolio. On this page you will find the current league tables, top scorers and highlights of the latest matches in the top 5 European leagues. The data come from two different APIs.",
+            "stack": "React, React Router, REST API, SCSS"
+        },
+        "wtyker": {
+            "title": "Wtyker",
+            "description": "Project of fake online shop with electronics. You can filter and sort products in it, add them to the cart and place an order.",
+            "stack": "React, React Router, Redux, Styled Components"
+        },
+        "portfolio": {
+            "title": "This portfolio site",
+            "description": "The website you are currently on. I present here my skills and finished projects.",
+            "stack": "React, Context API, Bootstrap, EmailJS, Formik, Yup, SCSS"
+        }
+    },
+    "contact": {
+        "writeMe": {
+            "title": "Write to me",
+            "subtitle": "Fill the form to contact me.",
+            "subtitleSending": "Sending...",
+            "subtitleSuccess": "Your message was sent. Thanks!",
+            "subtitleError": "Wooops! Something went wrong...",
+            "emailInput": "Email",
+            "nameInput": "Name",
+            "messageInput": "Message",
+            "emailError": "Please enter your email",
+            "emailIncorrect": "The email is incorrect",
+            "nameError": "Please enter your name",
+            "messageError": "Don't be shy, at least say hi :)",
+            "buttonMessage": "Send message"
+        },
+        "contactInformations": {
+            "title": "Contact informations",
+            "subtitle": "Find out more about me or contact me in another way."
+        }
+    }
+    
+}
