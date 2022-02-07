@@ -2,8 +2,8 @@ import React, { useContext } from 'react';
 import uuid from 'react-uuid';
 import saper from '../images/saper.webp';
 import quiz from '../images/quiz.webp';
-import top5 from '../images/top5.webp';
-import wtyker from '../images/wtyker.webp';
+import weather from '../images/weather.webp';
+import mountains from '../images/mountains.webp';
 import { LangContext } from '../context/LangContext';
 
 function Projects() {
@@ -14,32 +14,32 @@ function Projects() {
       image: saper,
       description: lang.projects.saper.description,
       stack: lang.projects.saper.stack,
-      live: 'https://manulisek.github.io/saper-javascript/',
-      github: 'https://github.com/ManuLisek/saper-javascript',
+      live: 'https://kamilwysz.github.io/Minesweeper/',
+      github: 'https://github.com/kamilwysz/Minesweeper',
     },
     {
       title: lang.projects.quiz.title,
       image: quiz,
       description: lang.projects.quiz.description,
       stack: lang.projects.quiz.stack,
-      live: 'https://manulisek.github.io/quiz-react/',
-      github: 'https://github.com/ManuLisek/quiz-react',
+      live: 'https://kamilwysz.github.io/quiz-react-voivodeships/',
+      github: 'https://github.com/kamilwysz/quiz-react-voivodeships',
     },
     {
-      title: lang.projects.top5.title,
-      image: top5,
-      description: lang.projects.top5.description,
-      stack: lang.projects.top5.stack,
-      live: 'https://manulisek.github.io/top-5-leagues-react/',
-      github: 'https://github.com/ManuLisek/top-5-leagues-react',
+      title: lang.projects.weather.title,
+      image: weather,
+      description: lang.projects.weather.description,
+      stack: lang.projects.weather.stack,
+      live: 'https://kamilwysz.github.io/weather-app/',
+      github: 'https://github.com/kamilwysz/weather-app',
     },
     {
-      title: lang.projects.wtyker.title,
-      image: wtyker,
-      description: lang.projects.wtyker.description,
-      stack: lang.projects.wtyker.stack,
-      live: 'https://manulisek.github.io/wtyker-react-redux/',
-      github: 'https://github.com/ManuLisek/wtyker-react-redux',
+      title: lang.projects.mountains.title,
+      image: mountains,
+      description: lang.projects.mountains.description,
+      stack: lang.projects.mountains.stack,
+      live: 'https://kamilwysz.github.io/Mountain-landing-page/',
+      github: 'https://github.com/kamilwysz/Mountain-landing-page',
     },
   ];
   const projectsList = projects.map((project, i) => {

@@ -24,23 +24,23 @@
         "buttonLive": "Strona",
         "saper": {
             "title": "Saper",
-            "description": "Moja wersja popularnej gry z początku lat 80, którą zna chyba każdy. Do wyboru są 2 poziomy trudności, które różnią się wielkością planszy i ilością bomb. Dodatkowym czynnikiem jest upływający czas.",
-            "stack": "HTML, SCSS, JavaScript"
+            "description": "Moja wersja popularnej gry z początku lat 80, którą zna chyba każdy. Do wyboru są 3 poziomy trudności, które różnią się wielkością planszy i ilością bomb. Dodatkowym czynnikiem jest upływający czas.",
+            "stack": "HTML, CSS, JavaScript"
         },
         "quiz": {
             "title": "Quiz",
-            "description": "Szybka zabawa na temat znajomości historii. Ten quiz polega na tym, by odgadnąć wszystkich polskich prezydentów. Jedyną podpowiedzą są lata w których dany prezydent urzędował. Jest to pierwszy projekt napisany prze ze mnie w React.",
+            "description": "Szybka zabawa na temat znajomości grografii. Ten quiz polega na tym, by odgadnąć wszystkie miasta wojewódzkie w polsce. Podpowiedzią są jedynie nazwy województw.",
             "stack": "React, SCSS"
         },
-        "top5": {
-            "title": "Top 5 leagues",
-            "description": "Jako że lubię sport, w moim portfolio nie mogło zabraknąć piłkarskiej aplikacji. Na tej stronie znajdziesz aktualne tabele ligowe, najlepszych strzelców oraz skróty ostatnich meczów z 5 najlepszych lig europejskich. Dane pobrałem z 2 różnych API.",
-            "stack": "React, React Router, REST API, SCSS"
+        "weather": {
+            "title": "Aplikacja pogodowa",
+            "description": "Aplikacja pogodowa. Po prostu wpisz miasto a otrzymasz podstawowe informacje o bieżącej pogodzie. Dane pochodzą z zewnętrznego API",
+            "stack": "React, Bootstrap, REST API"
         },
-        "wtyker": {
-            "title": "Wtyker",
-            "description": "Projekt nieistniejącego sklepu internetowego z elektroniką. Można w nim filtrować oraz sortować produkty, dodawać je do koszyka, a także złożyć zamówienie.",
-            "stack": "React, React Router, Redux, Styled Components"
+        "mountains": {
+            "title": "Mountains",
+            "description": "Projekt nie istniejącego serwisu opisującego popularne pasma górskie oraz oraz oferującego wycieczki.",
+            "stack": "HTML, SCSS"
         },
         "portfolio": {
             "title": "To portolio",
